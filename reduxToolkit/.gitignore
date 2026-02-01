@@ -23,4 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
-
+src
+public
+*.json
+*.js
+*.md
+*.html
