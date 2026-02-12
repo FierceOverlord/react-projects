@@ -24,9 +24,3 @@ dist-ssr
 *.sw?
 
 
-src
-public
-*.json
-*.js
-*.md
-*.html
